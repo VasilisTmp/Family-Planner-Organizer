@@ -1,0 +1,11 @@
+{
+  "name": "familyorganizer",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "s": "cd frontend && npm run server",
+    "w": "cd frontend && npm run wifi",
+    "a": "cd frontend && npm run android"
+   
+  }
+}
